@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Mohammad 👋
 
+- 💻 I’m a JavaScript developer based in the Midlands. 
+- 🔭 I’m currently working on coding challenges and projects.
+
+### 🤝 Connect with me:
+
+[![Codewars](https://www.codewars.com/users/mz0121coder/badges/small)](https://www.codewars.com/users/mz0121coder)
+## &#x1f4c8; GitHub Stats
+
+![MZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=mz0121coder&show_icons=true&theme=tokyonight)
 <!--
 **mz0121coder/mz0121coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
