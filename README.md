@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohammad 👋
 
 - 💻 I’m a JavaScript developer based in the Midlands. 
-- 🔭 I’m currently working on coding challenges and projects.
+- 🔭 I’m currently working on coding challenges, hackathons & team projects.
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mzcoder7/)
