@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohammad 👋
 
 - 💻 I’m a JavaScript developer based in the Midlands. 
-- 🔭 I’m currently working on coding challenges and projects.
+- 🔭 I’m working on coding challenges and team projects.
 - 🌱 I’m currently learning full stack software development at the School of Code. 
 
 ### 🤝 Connect with me:
