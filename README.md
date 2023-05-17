@@ -2,7 +2,7 @@
 
 - 💻 I’m a JavaScript developer based in the Midlands. 
 - 🔭 I’m working on coding challenges and team projects.
-- 🌱 I’m currently learning full stack software development at the School of Code. 
+
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mzcoder7/)
