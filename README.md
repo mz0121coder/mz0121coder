@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammad 👋
 
-- 💻 I’m a full stack JavaScript developer based in the Midlands. 
+- 💻 I’m a JavaScript developer based in the Midlands. 
 - 🔭 I’m working on coding challenges and team projects.
 
 
