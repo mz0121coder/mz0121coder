@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohammad 👋
 
 - 💻 I’m a full stack developer based in the UK. I have a background in Economics & equity trading.
-- 🔭 I love coding challenges and team projects, especially those involving React.
-- 🌱 I’m currently learning databases (SQL and noSQL). 
+- 🔭 My biggest technical strengths are React, JavaScript and CSS. 
+- 🌱 I’m currently learning React Native. 
 
 ### 🤝 Connect with me:
 
