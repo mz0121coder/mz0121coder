@@ -2,7 +2,7 @@
 
 - 💻 I’m a full stack developer based in the UK. I have a background in Economics & equity trading.
 - 🔭 My biggest technical strengths are React, JavaScript and CSS. 
-- 🌱 I’m currently learning React Native. 
+- 🌱 I’m currently learning Redux. 
 
 ### 🤝 Connect with me:
 
