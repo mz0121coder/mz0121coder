@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohammad 👋
 
-- 💻 I’m a full stack developer based in the UK. I have a background in Economics & equity trading.
-- 🔭 My biggest technical strengths are React, JavaScript and CSS. 
-- 🌱 I’m currently learning Redux. 
+- 💻 I’m a software developer based in the Midlands, UK. I have a background in Economics & trading.
+- 🔭 I'm contributing towards building a health focussed social platform and marketplace. 
+- 🌱 Currently learning Redux and Python. In my free time I enjoy swimming and hiking. 
 
 ### 🤝 Connect with me:
 
