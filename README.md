@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammad 👋
 
-- 💻 I’m a software developer based in the UK. I have a background in Economics & trading.
+- 💻 I’m a software engineer based in the UK. I have a background in Economics & trading.
 - 🔭 I'm contributing towards building a health focussed social platform and marketplace. 
 
 ### 🤝 Connect with me:
