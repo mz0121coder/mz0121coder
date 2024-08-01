@@ -1,6 +1,7 @@
 ### Hi there, I'm Mohammad 👋
 
-- 💻 I’m an SDET/Test Automation Engineer with experience in full stack development. 
+- 💻 I’m an SDET/Test Automation Engineer with experience in full stack development.
+- 🔭 On GitHub I mostly work on practice projects, up-skilling and new challenges. 
 
 ### 🤝 Connect with me:
 
